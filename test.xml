@@ -1,0 +1,17 @@
+<storyboard>
+    <view name="Hello" handlerType="text">
+        <view name="Search" handlerType="text">
+            <handler>sadfs</handler>
+            <view name="Events" handlerType="text">
+                <handler>werewr</handler>
+            </view>
+            <view name="Promotions" handlerType="text">
+                <handler>zxvc</handler>
+            </view>
+        </view>
+        <view name="Improve" handlerType="custom">
+            <handler>@Override</handler>
+        </view>
+        <handler>Hi! I am telobot</handler>
+    </view>
+</storyboard>
